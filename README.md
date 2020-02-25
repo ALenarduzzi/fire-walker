@@ -1,1 +1,1 @@
-# fire-walker
+# cis 206 class
